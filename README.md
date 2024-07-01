@@ -2,7 +2,7 @@
 
 ## Snack Expo Link
 
-[link text](https://snack.expo.dev/@danny7s/take-home---uniswap)
+[Snack Expo Link](https://snack.expo.dev/@danny7s/take-home---uniswap)
 
 ## Build a Portfolio Visualizer!
 
