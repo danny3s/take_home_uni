@@ -1,4 +1,9 @@
 ## Daniel Sanchez
+
+## Snack Expo Link
+
+[link text](https://snack.expo.dev/@danny7s/take-home---uniswap)
+
 ## Build a Portfolio Visualizer!
 
 Build a portfolio visualization and simple asset transfer tool! It should do the following:
